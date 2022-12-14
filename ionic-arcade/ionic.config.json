@@ -1,0 +1,7 @@
+{
+  "name": "ionic-arcade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
